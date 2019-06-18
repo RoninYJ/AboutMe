@@ -1,0 +1,13 @@
+h1 {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+}
+h4 {
+    border : 4px dotted rgb(222, 5, 150)
+}
+
+li {
+    margin : 40px 0px 40px 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
